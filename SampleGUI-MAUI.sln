@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleGUI-MAUI", "SampleGUI-MAUI.csproj", "{878F08E4-DFD7-4416-9EB2-6796F8284984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleGUI-xUnit-test", "..\SampleGUI-xUnit-test\SampleGUI-xUnit-test.csproj", "{0F7B6919-7CAA-4AC8-AFF3-30DB66D9490A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878F08E4-DFD7-4416-9EB2-6796F8284984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878F08E4-DFD7-4416-9EB2-6796F8284984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878F08E4-DFD7-4416-9EB2-6796F8284984}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{878F08E4-DFD7-4416-9EB2-6796F8284984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878F08E4-DFD7-4416-9EB2-6796F8284984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{878F08E4-DFD7-4416-9EB2-6796F8284984}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0F7B6919-7CAA-4AC8-AFF3-30DB66D9490A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7B6919-7CAA-4AC8-AFF3-30DB66D9490A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7B6919-7CAA-4AC8-AFF3-30DB66D9490A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7B6919-7CAA-4AC8-AFF3-30DB66D9490A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18C105CD-1005-4ED8-948D-AA733988D15D}
+	EndGlobalSection
+EndGlobal
